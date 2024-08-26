@@ -7,7 +7,7 @@ Este é um projeto básico de front-end utilizando HTML e CSS, projetado para de
 O projeto inclui um design de página inicial com os seguintes elementos:
 
 - **Background**: A página tem um fundo preto com texto em uma cor clara.
-- **Título e Parágrafo**: Um título chamativo e um parágrafo com informações sobre Camila Félix.
+- **Título e Parágrafo**: Um título chamativo e um parágrafo com informações.
 - **Botões**: Dois botões que direcionam para Instagram e LinkedIn.
 - **Imagem**: Uma imagem exibida ao lado do conteúdo textual.
 
